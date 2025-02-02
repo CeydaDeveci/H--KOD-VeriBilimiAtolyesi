@@ -5,5 +5,5 @@ Hi-KOD 2.0 - 5. VERİ BİLİMİ VE YAPAY ZEKA ATÖLYESİ BİTİRME PROJESİ
 
 Biz bu analizde insan özgürlüğü indeksi üzerinde hukuk, güvenlik ve emniyet , bilgi ve ifade özgürlüğü üzerinde analiz ettik.
 
-Projede emeği geçen ekip arkadaşlarım Adem Can ve Sevgi teşekkürler. 
+Projede emeği geçen ekip arkadaşlarım Adem Can ve Sevgi teşekkürlerimi sunarım.
 
